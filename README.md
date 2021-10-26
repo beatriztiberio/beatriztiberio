@@ -2,7 +2,6 @@
 
 - 🌱  Estou aprendendo atualmente HTML, CSS e JavaScript
 - 📫 Como chegar até mim: correa.beatrizt@gmail.com
-- 😄 Pronome: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/beatriztiberio">
