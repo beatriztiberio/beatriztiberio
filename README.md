@@ -1,4 +1,4 @@
-### Olá, eu sou a Beatriz Tiberio Corrêa 👋
+### Olá, eu sou a Beatriz 👋
 
 - 🌱  Estou aprendendo CSS Flexbox
 - 📫 Como chegar até mim: correa.beatrizt@gmail.com
