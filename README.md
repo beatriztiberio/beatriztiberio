@@ -1,6 +1,6 @@
 ### Olá, eu sou a Beatriz Tiberio Corrêa 👋
 
-- 🌱  Estou aprendendo atualmente HTML, CSS e JavaScript
+- 🌱  Estou aprendendo CSS Flexbox
 - 📫 Como chegar até mim: correa.beatrizt@gmail.com
 
 <div align="center">
