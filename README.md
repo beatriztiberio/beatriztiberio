@@ -1,6 +1,7 @@
 ### Olá, eu sou a Beatriz 👋
 
-- 🌱  Estou aprendendo CSS Flexbox
+- 🌱  Estou aprendendo JavaScript
+- 🖥️  Estou cursando Análise e Desenvolvimento de Sistemas
 - 📫 Como chegar até mim: correa.beatrizt@gmail.com
 
   
