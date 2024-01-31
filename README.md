@@ -2,7 +2,7 @@
 
 - 🌱  Estou aprendendo JavaScript
 - 🖥️  Estou cursando Análise e Desenvolvimento de Sistemas
-- 📫 Como chegar até mim: correa.beatrizt@gmail.com
+- 📫 Como chegar até mim: beatriz.tiberiocorrea123@gmail.com
 
   
   <div style="display: inline_block"><br>
