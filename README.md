@@ -10,11 +10,10 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-      src="https://cdn.discordapp.com/attachments/540705961640198146/898012263317909594/ezgif-3-ded046c0c2ae.gif">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/540705961640198146/898012263317909594/ezgif-3-ded046c0c2ae.gif">
 </div>
   
-  ##
+
   
   <div> 
   <a href = "mailto:correa.beatrizt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
