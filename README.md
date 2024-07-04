@@ -13,7 +13,7 @@
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/540705961640198146/898012263317909594/ezgif-3-ded046c0c2ae.gif">
 </div>
   
-
+## 
   
   <div> 
   <a href = "mailto:correa.beatrizt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,3 +21,5 @@
  
  
 </div>
+
+*/ " /*
