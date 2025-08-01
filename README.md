@@ -2,6 +2,7 @@
 
 - 🌱  Estou aprendendo JavaScript
 - 🖥️  Estou cursando Análise e Desenvolvimento de Sistemas
+- 🖥️  Aluna da Alura 
 - 📫 Como chegar até mim: beatriz.tiberiocorrea123@gmail.com
 
   
